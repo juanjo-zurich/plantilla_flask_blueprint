@@ -1,0 +1,1 @@
+# Estructura de carpetas para una aplicación Flask con Blueprint
