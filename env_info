@@ -1,0 +1,7 @@
+FLASK_DEBUG=True
+FLASK_APP=app:crear_app
+FLASK_ENV=development
+SECRET_KEY='superclavesecreta'
+SQLALCHEMY_DATABASE_URI = 'sqlite:///mi_db.sqlite'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+PORT=4000
